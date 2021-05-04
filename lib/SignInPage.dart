@@ -32,12 +32,18 @@ class _SignInPageState extends State<SignInPage> {
                         fontSize: 40,
                       ),
                     ),
+                    SizedBox(
+                      height: 30.0,
+                    ),
                     Text(
                       'Media',
                       style: TextStyle(
-                        color: CustomColors.firebaseOrange,
+                        color: CustomColors.firebaseAmber,
                         fontSize: 40,
                       ),
+                    ),
+                    SizedBox(
+                      height: 30.0,
                     ),
                     Text(
                       'Integration',
@@ -46,10 +52,13 @@ class _SignInPageState extends State<SignInPage> {
                         fontSize: 40,
                       ),
                     ),
+                    SizedBox(
+                      height: 30.0,
+                    ),
                     Text(
                       'App',
                       style: TextStyle(
-                        color: CustomColors.firebaseOrange,
+                        color: CustomColors.firebaseGrey,
                         fontSize: 40,
                       ),
                     ),
