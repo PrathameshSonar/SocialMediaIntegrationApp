@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:socialintegrationapp/SignInPage.dart';
+import 'package:socialintegrationapp/screens/SignInPage.dart';
 
 void main() {
   runApp(MyApp());

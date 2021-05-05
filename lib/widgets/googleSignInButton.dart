@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:socialintegrationapp/UserInfoScreen.dart';
-import 'package:socialintegrationapp/authentication.dart';
+import 'package:socialintegrationapp/screens/UserInfoScreen.dart';
+import 'package:socialintegrationapp/utils/authentication.dart';
 
 class GoogleSignInButton extends StatefulWidget {
   @override

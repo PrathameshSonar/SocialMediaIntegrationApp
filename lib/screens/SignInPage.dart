@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:socialintegrationapp/authentication.dart';
-import 'package:socialintegrationapp/custom_colors.dart';
-import 'package:socialintegrationapp/googleSignInButton.dart';
+import 'package:socialintegrationapp/res/custom_colors.dart';
+import 'package:socialintegrationapp/utils/authentication.dart';
+import 'package:socialintegrationapp/widgets/googleSignInButton.dart';
 
 class SignInPage extends StatefulWidget {
   @override
